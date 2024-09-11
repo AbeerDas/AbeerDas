@@ -4,8 +4,10 @@
  
 <div align="center">✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰</div>
 
-## 👋 About Me
-Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering at the University of Waterloo. I strive to ensure that everything I work on or contribute to becomes an impactful product, with real value for those who use it. I’m passionate about the entire product development journey, from start to finish, and lately, I’ve been particularly fascinated by machine learning ⚙️, blockchain 🧾, and backend programming 💻
+## 👋About Me
+Hey, my name is Abeer and currently I'm studying Systems Design Engineering at the University of Waterloo! I’m passionate about the entire product development journey, from start to finish, and lately, I’ve been particularly fascinated by machine learning ⚙️, blockchain 🧾, and backend programming 💻
+
+🌱 Currently I am working on a patient record web app for doctors that uses blockchain for safe transactions
 
 ##
 
@@ -19,7 +21,7 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
 
 ###
 
-<h2 align="left" id="macropower-tech">👨‍💻 Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">👨‍💻Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -57,7 +59,7 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-svgrepo-com" width="48" height="48" alt="Docker" />
+        <img src="./img/docker-svgrepo-com.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -77,14 +79,24 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
 </table>
 
 
-## Socials
-
-<div align="left">
-  <a href="mailto:ak5das@uwaterloo.ca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=outlook&label=&color=brown&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/eric-mxrtin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 🏋️Socials
+> Check me out or contact me in these places
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="mailto:ak5das@uwaterloo.ca">
+  <img alt="Abeer's Email" width="50px" src="./img/gmail1-removebg-preview.png" />
+</a>
+<a href="https://open.spotify.com/user/21qvp56dh2ytwnq6y4ogt5oha">
+  <img alt="Abeer's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+  
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21qvp56dh2ytwnq6y4ogt5oha&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21qvp56dh2ytwnq6y4ogt5oha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
   </a>
 </div>
 
@@ -95,14 +107,5 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
 <!---
 <img src="https://raw.githubusercontent.com/eric-mxrtin/eric-mxrtin/output/snake.svg" alt="Snake animation" />
 -->
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AbeerDas/count.svg?"  />
-</div>
-
-###
-
 
 ###
