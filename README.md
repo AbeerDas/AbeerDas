@@ -27,27 +27,27 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/nextjs-icon-svgrepo-com.svg" width="48" height="48" alt="NextJS" />
       </a>
-      <br>Go
+      <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/mongo-svgrepo-com.svg" width="48" height="48" alt="Mongo" />
       </a>
-      <br>Python
+      <br>Mongo
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript-official-svgrepo-com.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="javascript-svgrepo-com(1).svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
