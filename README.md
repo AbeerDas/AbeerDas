@@ -1,8 +1,9 @@
+
 <p align="center" margin="auto">
-  <img align="right" height="200" src="https://media.giphy.com/media/3o7btP089a98Xr6AV2/giphy.gif"  width="100%" style="margin-bottom: 50 px;" />
+  <img height="300"  src="https://media.giphy.com/media/3o7btP089a98Xr6AV2/giphy.gif"  style="margin-bottom: 50 px;" />
 </p>
  
-<div align="center">✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰</div>
+<div align="center">✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰</div>
 
 ## 👋About Me
 Hey, my name is Abeer and currently I'm studying Systems Design Engineering at the University of Waterloo! I’m passionate about the entire product development journey, from start to finish, and lately, I’ve been particularly fascinated by machine learning ⚙️, blockchain 🧾, and backend programming 💻
