@@ -5,7 +5,7 @@
 <div align="center">✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰</div>
 
 ## 👋 About Me
-Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering at the University of Waterloo. I strive to ensure that everything I work on or contribute to becomes an impactful product, with real value for those who use it. I’m passionate about the entire product development journey, from start to finish, and lately, I’ve been particularly fascinated by machine learning, blockchain, and backend programming 🧑‍💻
+Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering at the University of Waterloo. I strive to ensure that everything I work on or contribute to becomes an impactful product, with real value for those who use it. I’m passionate about the entire product development journey, from start to finish, and lately, I’ve been particularly fascinated by machine learning ⚙️, blockchain 🧾, and backend programming 💻
 
 ##
 
@@ -19,7 +19,7 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
 
 ###
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">👨‍💻 Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -45,9 +45,9 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="javascript-svgrepo-com(1).svg" width="48" height="48" alt="Javascript" />
+        <img src="./img/nodejs-icon-svgrepo-com.svg" width="48" height="48" alt="Javascript" />
       </a>
-      <br>Javascript
+      <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -57,27 +57,27 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker-svgrepo-com" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/azure-svgrepo-com.svg" width="48" height="48" alt="Azure" />
       </a>
-      <br>Debian
+      <br>Azure
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/ng-tailwind-svgrepo-com.svg" width="48" height="48" alt="Angular and Tailwind CSS" />
       </a>
-      <br>Grafana
+      <br>Angular
     </td>
   </tr>
 </table>
 
 
-###
+## Socials
 
 <div align="left">
   <a href="mailto:ak5das@uwaterloo.ca" target="_blank">
