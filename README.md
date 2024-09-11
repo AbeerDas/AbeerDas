@@ -1,5 +1,5 @@
 <p align="center" margin="auto">
-  <img align="right" height="450" src="https://media.giphy.com/media/3o7btP089a98Xr6AV2/giphy.gif"  width="100%" style="margin-bottom: 50 px;" />
+  <img align="right" height="200" src="https://media.giphy.com/media/3o7btP089a98Xr6AV2/giphy.gif"  width="100%" style="margin-bottom: 50 px;" />
 </p>
  
 <div align="center">✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰</div>
@@ -96,7 +96,7 @@ Hey, my name is Abeer and currently I'm studying Systems Design Engineering at t
   
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21qvp56dh2ytwnq6y4ogt5oha&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21qvp56dh2ytwnq6y4ogt5oha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+    <img  height="300" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21qvp56dh2ytwnq6y4ogt5oha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
   </a>
 </div>
 
