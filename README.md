@@ -104,10 +104,5 @@ Hey, my name is Abeer 🐈 and currently I'm studying Systems Design Engineering
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/5g6hzjaw8sarmj5lyz3w2p9lv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5g6hzjaw8sarmj5lyz3w2p9lv&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
