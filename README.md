@@ -84,8 +84,8 @@ Hey, my name is Abeer and currently I'm studying Systems Design Engineering at t
 > Check me out or contact me in these places
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+<a href="https://www.linkedin.com/in/abeerdas/">
+  <img alt="Abeer's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <a href="mailto:ak5das@uwaterloo.ca">
   <img alt="Abeer's Email" width="50px" src="./img/gmail1-removebg-preview.png" />
