@@ -88,12 +88,7 @@ Hey, my name is Abeer and currently I'm studying Systems Design Engineering at t
   <img alt="Abeer's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
-  
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21qvp56dh2ytwnq6y4ogt5oha&redirect=true">
-    <img  height="300" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21qvp56dh2ytwnq6y4ogt5oha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-  </a>
-</div>
+
 
 ###
 
