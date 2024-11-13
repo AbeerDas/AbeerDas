@@ -1,5 +1,5 @@
 
-## 👋About Me
+## About Me
 Hey, my name is Abeer and currently I'm studying Systems Design Engineering at the University of Waterloo! I’m passionate about the entire product development journey, from start to finish, and lately, I’ve been particularly fascinated by machine learning ⚙️, blockchain 🧾, and backend programming 💻
 
 🌱 Currently I am working on _estia_, which is centralized location for coding side projects 
