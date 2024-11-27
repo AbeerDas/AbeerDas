@@ -1,26 +1,20 @@
 
-## About Me
-Hey, my name is Abeer and currently I'm studying Systems Design Engineering at the University of Waterloo! I’m passionate about the entire product development journey, from start to finish, and lately, I’ve been particularly fascinated by machine learning ⚙️, blockchain 🧾, and backend programming 💻
-
-🌱 Currently I am working on _estia_, which is centralized location for coding side projects 
-
-##
-
-<!--
+<h2 align="center" id="macropower-tech">About Me</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eric-mxrtin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+Hi, my name is Abeer, and I’m currently studying Systems Design Engineering at the University of Waterloo. I’m deeply passionate about the entire product development journey—from ideation to deployment—and thrive on collaborating with teams to create impactful, meaningful products. My experience ranges from engineering microservices to developing full-scale web applications designed for children with disabilities. I’m driven by the opportunity to contribute to projects that leave a lasting, positive impact. Recently, I’ve been particularly fascinated by machine learning and backend programming.
+</br></br>
+  
+🌱 Currently I am working on _estia_, which is a community based centralized location for coding side projects 
 </div>
--->
 
-###
+<h2 align="center" id="macropower-tech">Favorite Tech</h2>
 
-###
+<div align="center">
 
-<h2 align="left" id="macropower-tech">👨‍💻Favorite Tech</h2>
+`Tools, languages, and other things that I like to work with.`
 
-> Tools, languages, and other things that I like to work with.
-
-<table>
+</div>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -74,8 +68,11 @@ Hey, my name is Abeer and currently I'm studying Systems Design Engineering at t
 </table>
 
 
-## 🏋️Socials
-> Check me out or contact me in these places
+<h2 align="center" id="macropower-tech">Socials</h2>
+<div align="center">
+
+`Check me out or contact me in these places`
+</div>
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/abeerdas/">
