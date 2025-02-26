@@ -91,8 +91,4 @@ Hi, my name is Abeer, and I’m currently studying Systems Design Engineering at
 
 <br clear="both">
 
-<!---
-<img src="https://raw.githubusercontent.com/eric-mxrtin/eric-mxrtin/output/snake.svg" alt="Snake animation" />
--->
-
 ###
