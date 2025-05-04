@@ -1,5 +1,5 @@
 
-<h2 align="center" id="macropower-tech">About Me</h2>
+<h2 id="macropower-tech">About Me</h2>
 
 - Studying Systems Design Engineering at the University of Waterloo  
 - Passionate about the full product development cycle — from ideation to deployment  
@@ -9,7 +9,7 @@
 - Currently exploring backend programming, machine learning, autonomous vehicles, and robotics  
 - Working on **estia** — a centralized platform for coding side projects and developer communities  
 
-<h2 align="center" id="macropower-tech">Favorite Tech</h2>
+<h2 id="macropower-tech">Favorite Tech</h2>
 
 
 
