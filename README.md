@@ -1,20 +1,22 @@
 
 <h2 align="center" id="macropower-tech">About Me</h2>
-<div align="center">
-Hi, my name is Abeer, and I’m currently studying Systems Design Engineering at the University of Waterloo. I’m deeply passionate about the entire product development journey—from ideation to deployment—and thrive on collaborating with teams to create impactful, meaningful products. My experience ranges from engineering microservices to developing full-scale web applications designed for children with disabilities. I’m driven by the opportunity to contribute to projects that leave a lasting, positive impact. Recently, I’ve been particularly fascinated by machine learning and backend programming.
-</br></br>
-  
-🌱 Currently I am working on _estia_, which is a community based centralized location for coding side projects 
-</div>
+
+- Studying Systems Design Engineering at the University of Waterloo  
+- Passionate about the full product development cycle — from ideation to deployment  
+- Thrive in collaborative environments building impactful, real-world solutions  
+- Developed full-scale web apps for children with disabilities  
+- Experienced in engineering scalable microservices and full-stack systems  
+- Currently exploring backend programming, machine learning, autonomous vehicles, and robotics  
+- Working on **estia** — a centralized platform for coding side projects and developer communities  
 
 <h2 align="center" id="macropower-tech">Favorite Tech</h2>
 
-<div align="center">
+
 
 `Tools, languages, and other things that I like to work with.`
 
-</div>
-<table align="center">
+
+<table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -68,21 +70,18 @@ Hi, my name is Abeer, and I’m currently studying Systems Design Engineering at
 </table>
 
 
-<h2 align="center" id="macropower-tech">Socials</h2>
-<div align="center">
+<h2 id="macropower-tech">Socials</h2>
+<div>
 
 `Check me out or contact me in these places`
 </div>
-<p align="center">
+<p>
 <br/>
 <a href="https://www.linkedin.com/in/abeerdas/">
   <img alt="Abeer's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <a href="mailto:ak5das@uwaterloo.ca">
   <img alt="Abeer's Email" width="50px" src="./img/gmail1-removebg-preview.png" />
-</a>
-<a href="https://open.spotify.com/user/21qvp56dh2ytwnq6y4ogt5oha">
-  <img alt="Abeer's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
 
