@@ -2,8 +2,7 @@
 <h2 id="macropower-tech">About Me</h2>
 
 - Studying Systems Design Engineering at the University of Waterloo  
-- Passionate about the full product development cycle — from ideation to deployment  
-- Thrive in collaborative environments building impactful, real-world solutions  
+- Passionate about the full product development cycle -> from ideation to deployment  
 - Developed full-scale web apps for children with disabilities  
 - Experienced in engineering scalable microservices and full-stack systems  
 - Currently exploring backend programming, machine learning, autonomous vehicles, and robotics  
