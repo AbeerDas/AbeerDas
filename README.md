@@ -1,15 +1,13 @@
 
 <h2 id="macropower-tech">About me</h2>
 
-- Studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo
-- Passionate about the full product development cycle -> from ideation to deployment   
-- Developing a [financial literacy platform](https://github.com/uwblueprint/extend-a-family) for children with disabilities  
-- Currently working at a legal tech startup fast tracking immigration into Canada - [@borderpass](https://github.com/octocat)
-- Working on [**estia**](https://estiafrontend.vercel.app/) — a centralized platform for coding side projects and developer communities  
-
-- Experienced in engineering [microservices and full-stack enterprise systems](https://easi.its.utoronto.ca/)
-
-- Currently exploring backend programming, machine learning, and autonomous vehicles
+→ Studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo <br/>
+→ Passionate about the full product development cycle -> from ideation to deployment<br/>
+→ Developing a [financial literacy platform](https://github.com/uwblueprint/extend-a-family) for children with disabilities<br/>
+→ Currently working at a legal tech startup fast tracking immigration into Canada - [@borderpass](https://github.com/octocat)<br/>
+→ Working on [**estia**](https://estiafrontend.vercel.app/) — a centralized platform for coding side projects and developer communities<br/>
+→ Experienced in engineering [microservices and full-stack enterprise systems](https://easi.its.utoronto.ca/)<br/>
+→ Currently exploring backend programming, machine learning, and autonomous vehicles<br/>
 
 <h2 id="macropower-tech">Favorite tech</h2>
 
