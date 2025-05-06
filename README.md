@@ -1,14 +1,17 @@
 
-<h2 id="macropower-tech">About Me</h2>
+<h2 id="macropower-tech">About me</h2>
 
-- Studying Systems Design Engineering at the University of Waterloo  
-- Passionate about the full product development cycle -> from ideation to deployment  
-- Developed full-scale web apps for children with disabilities  
-- Experienced in engineering scalable microservices and full-stack systems  
-- Currently exploring backend programming, machine learning, autonomous vehicles, and robotics  
-- Working on **estia** — a centralized platform for coding side projects and developer communities  
+- Studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo
+- Passionate about the full product development cycle -> from ideation to deployment   
+- Developing a [financial literacy platform](https://github.com/uwblueprint/extend-a-family) for children with disabilities  
+- Currently working at a legal tech startup fast tracking immigration into Canada - [@borderpass](https://github.com/octocat)
+- Working on [**estia**](https://estiafrontend.vercel.app/) — a centralized platform for coding side projects and developer communities  
 
-<h2 id="macropower-tech">Favorite Tech</h2>
+- Experienced in engineering [microservices and full-stack enterprise systems](https://easi.its.utoronto.ca/)
+
+- Currently exploring backend programming, machine learning, and autonomous vehicles
+
+<h2 id="macropower-tech">Favorite tech</h2>
 
 
 
@@ -25,15 +28,21 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/mongo-svgrepo-com.svg" width="48" height="48" alt="Mongo" />
-      </a>
-      <br>Mongo
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/typescript-official-svgrepo-com.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/postgresql-svgrepo-com.svg" width="48" height="48" alt="Mongo" />
+      </a>
+      <br>PostgreSQL
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/aws-logo.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -41,17 +50,17 @@
       </a>
       <br>NodeJS
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/docker-svgrepo-com.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mongo-svgrepo-com.svg" width="48" height="48" alt="Mongo" />
+      </a>
+      <br>Mongo
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -59,34 +68,5 @@
       </a>
       <br>Azure
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/ng-tailwind-svgrepo-com.svg" width="48" height="48" alt="Angular and Tailwind CSS" />
-      </a>
-      <br>Angular
-    </td>
   </tr>
 </table>
-
-
-<h2 id="macropower-tech">Socials</h2>
-<div>
-
-`Check me out or contact me in these places`
-</div>
-<p>
-<br/>
-<a href="https://www.linkedin.com/in/abeerdas/">
-  <img alt="Abeer's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="mailto:ak5das@uwaterloo.ca">
-  <img alt="Abeer's Email" width="50px" src="./img/gmail1-removebg-preview.png" />
-</a>
-<br>
-
-
-###
-
-<br clear="both">
-
-###
