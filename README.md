@@ -1,6 +1,8 @@
 
 <h2 id="macropower-tech">About me</h2>
 
+Seeking Winter 2026 Internships!
+
 → Studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo <br/>
 → Currently working at a legal tech startup fast tracking immigration into Canada - [@borderpass](https://github.com/octocat)<br/>
 → Passionate about the full product development cycle ~ from ideation to deployment<br/>
