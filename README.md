@@ -1,15 +1,14 @@
 
 <h2 id="macropower-tech">About me</h2>
 
-Seeking Winter 2026 Internships!
+Seeking Fall 2026 Internships!
 
 → Studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo <br/>
-→ Currently working at a legal tech startup fast tracking immigration into Canada - [@borderpass](https://github.com/octocat)<br/>
+→ Previously interned at [Spellbook](https://www.spellbook.legal/) (Khosla Ventures) — building AI agents for legal workflows<br/>
 → Passionate about the full product development cycle ~ from ideation to deployment<br/>
-→ Developing a [financial literacy platform](https://github.com/uwblueprint/extend-a-family) for children with disabilities<br/>
-→ Working on [**estia**](https://estiafrontend.vercel.app/) — a centralized platform for coding side projects and developer communities<br/>
-→ Experienced in engineering [microservices and full-stack enterprise systems](https://easi.its.utoronto.ca/)<br/>
-→ Currently exploring backend programming, machine learning, and autonomous vehicles<br/>
+→ Building a volunteer & route management platform for [Beach Metro Community News](https://www.beachmetro.com/) @ UW Blueprint<br/>
+→ Building [**UW Wiki**](https://github.com/suryajj/uw-wiki) — a student-edited knowledge base for UW clubs, design teams, and programs<br/>
+→ Currently exploring AI agent architectures and full-stack engineering<br/>
 
 <h2 id="macropower-tech">Favorite tech</h2>
 
