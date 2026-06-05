@@ -4,7 +4,7 @@
 Seeking Fall 2026 Internships!
 
 → Studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo <br/>
-→ Previously interned at [Spellbook](https://www.spellbook.legal/) (Khosla Ventures) — building AI agents for legal workflows<br/>
+→ Previously interned at [Spellbook](https://www.spellbook.legal/) (Khosla Ventures) building AI agents for legal workflows<br/>
 → Passionate about the full product development cycle ~ from ideation to deployment<br/>
 → Building a volunteer & route management platform for [Beach Metro Community News](https://www.beachmetro.com/) @ UW Blueprint<br/>
 → Building [**UW Wiki**](https://github.com/suryajj/uw-wiki) — a student-edited knowledge base for UW clubs, design teams, and programs<br/>
