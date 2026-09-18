@@ -1,8 +1,7 @@
 
 <h2 id="macropower-tech">About me</h2>
 
-Seeking Fall 2026 Internships!
-
+Currently working at Theory Ventures
 → Studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo <br/>
 → Previously interned at [Spellbook](https://www.spellbook.legal/) (Khosla Ventures) building AI agents for legal workflows<br/>
 → Passionate about the full product development cycle ~ from ideation to deployment<br/>
