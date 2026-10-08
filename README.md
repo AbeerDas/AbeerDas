@@ -8,7 +8,7 @@ Currently working at Theory Ventures
 → Passionate about the full product development cycle ~ from ideation to deployment<br/>
 → Building a volunteer & route management platform for [Beach Metro Community News](https://www.beachmetro.com/) @ UW Blueprint<br/>
 → Building [**UW Wiki**](https://github.com/suryajj/uw-wiki) — a student-edited knowledge base for UW clubs, design teams, and programs<br/>
-→ Currently exploring AI agent architectures and full-stack engineering<br/>
+→ Currently exploring AI agent architectures and software systems designg<br/>
 
 <h2 id="macropower-tech">Favorite tech</h2>
 
