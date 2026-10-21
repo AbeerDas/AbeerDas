@@ -1,21 +1,16 @@
+# Abeer Das
 
-<h2 id="macropower-tech">About me</h2>
+**Systems Design Engineering @ University of Waterloo** · BASc 2028
 
-Currently working at Theory Ventures
+I build LLM/agent systems and the infra around them, including retrieval, orchestration, evals, and the cost of running it. Five terms in, currently an **AI Engineer at [Theory Ventures](https://theoryvc.com/)** in SF.
 
-→ Studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo <br/>
-→ Previously interned at [Spellbook](https://www.spellbook.legal/) (Khosla Ventures) building AI agents for legal workflows<br/>
-→ Passionate about the full product development cycle ~ from ideation to deployment<br/>
+→ Previously a Product Engineer at [Spellbook](https://www.spellbook.legal/) and [BorderPass](https://borderpass.ai/), two of the Globe and Mail's fastest-growing startups, both in legal tech<br/>
 → Building a volunteer & route management platform for [Beach Metro Community News](https://www.beachmetro.com/) @ UW Blueprint<br/>
-→ Building [**UW Wiki**](https://github.com/suryajj/uw-wiki) — a student-edited knowledge base for UW clubs, design teams, and programs<br/>
-→ Currently exploring AI agent architectures and software systems design<br/>
+→ Building [**UW Wiki**](https://github.com/suryajj/uw-wiki), a student-edited knowledge base for UW clubs, design teams, and programs<br/>
 
-<h2 id="macropower-tech">Favorite tech</h2>
-
-
+<h3 id="macropower-tech">Favorite tech</h3>
 
 `Tools, languages, and other things that I like to work with.`
-
 
 <table>
   <tr>
@@ -69,3 +64,24 @@ Currently working at Theory Ventures
     </td>
   </tr>
 </table>
+
+**AI & Retrieval**
+![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-334155?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-334155?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-334155?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-334155?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-334155?style=flat-square)
+
+### Hackathon wins (pinned)
+
+**[Sibyl](https://devpost.com/software/sibyl-x8gpor)** · *1st of 770 and Best Use of AI/ML, Hack for Humanity 2026*
+Eight LangGraph agents verifying IFRS sustainability disclosures at paragraph level. A judge agent gates verdicts at a confidence threshold and sends thin evidence back for re-investigation.
+
+**[Rosetta](https://devpost.com/software/rosetta-hq6aby)** · *3rd of 276, HackHive 2026*
+Live lecture translation for ESL students, with grounded citations surfacing in under 150 ms.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/abeerdas) · [abeerkdas.com](https://abeerkdas.com/) · ak5das@uwaterloo.ca
