@@ -4,7 +4,7 @@
 
 I build LLM/agent systems and the infra around them, including retrieval, orchestration, evals, and the cost of running it. Five terms in, currently an **AI Engineer at [Theory Ventures](https://theoryvc.com/)** in SF.
 
-→ Previously a Product Engineer at [Spellbook](https://www.spellbook.legal/) and [BorderPass](https://borderpass.ai/), two of the Globe and Mail's fastest-growing startups, both in legal tech<br/>
+→ Prev: a Product Engineer at [Spellbook](https://www.spellbook.legal/) and [BorderPass](https://borderpass.ai/), two of Globe and Mail's fastest-growing startups, both in legal tech<br/>
 → Building a volunteer & route management platform for [Beach Metro Community News](https://www.beachmetro.com/) @ UW Blueprint<br/>
 → Building [**UW Wiki**](https://github.com/suryajj/uw-wiki), a student-edited knowledge base for UW clubs, design teams, and programs<br/>
 
